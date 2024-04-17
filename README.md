@@ -9,6 +9,7 @@ To use a template, create a **creative** folder in the **templates** folder, put
 
 
 to change footer - edit **footer.txt** in the **includes** folder
+
 to change the information in the sidebar - edit **about.txt** in the **includes** folder
 
 [HamsterCMS is the world's smallest and very simple multi-template flatfile content management system.](http://old.net.eu.org/)
